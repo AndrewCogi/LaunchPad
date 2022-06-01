@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android" android:color="#61B3E7">
+    <item android:drawable="@drawable/bg_drum_line_1_1">
+        <shape>
+            <corners
+                android:bottomLeftRadius="18dp"
+                android:bottomRightRadius="18dp"
+                android:topLeftRadius="18dp"
+                android:topRightRadius="18dp"/>
+            <gradient
+                android:angle="0"
+                android:startColor="#FFFFFF"
+                android:endColor="#111111"
+                android:type="radial"
+                android:gradientRadius="70%"/>
+        </shape>
+    </item>
+</ripple>

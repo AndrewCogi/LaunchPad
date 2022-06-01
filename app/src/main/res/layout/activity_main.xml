@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mainFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/option_music"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/black"
+        android:orientation="horizontal"
+        android:layout_weight="10">
+
+        <HorizontalScrollView
+            android:layout_width="200dp"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal" >
+
+                <Button
+                    android:id="@+id/piano"
+                    android:textSize="12dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/button_background"
+                    android:layout_margin="5dp"
+                    android:gravity="center"
+                    android:text="piano" />
+
+                <Button
+                    android:id="@+id/guitar"
+                    android:textSize="12dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/button_background"
+                    android:layout_margin="5dp"
+                    android:gravity="center"
+                    android:text="guitar" />
+
+                <Button
+                    android:id="@+id/drum"
+                    android:textSize="12dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/button_background"
+                    android:layout_margin="5dp"
+                    android:gravity="center"
+                    android:text="drum" />
+
+                <Button
+                    android:id="@+id/bass"
+                    android:textSize="12dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/button_background"
+                    android:layout_margin="5dp"
+                    android:gravity="center"
+                    android:text="bass" />
+
+            </LinearLayout>
+        </HorizontalScrollView>
+        <Button
+            android:id="@+id/center"
+            android:layout_width="55dp"
+            android:layout_margin="5dp"
+            android:layout_height="match_parent"
+            android:background="@drawable/button_background"
+            android:textSize="28dp"/>
+
+        <TextView
+            android:id="@+id/show_oct"
+            android:layout_width="85dp"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="oct: 3"
+            android:textAlignment="center"
+            android:textSize="25dp" />
+
+        <Button
+            android:id="@+id/metronome"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/button_background"
+            android:layout_margin="5dp"
+            android:scaleType="fitCenter"
+            android:textSize="13dp"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/black"
+        android:orientation="horizontal"
+        android:layout_weight="10">
+
+        <Button
+            android:id="@+id/recordbtn1"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:textSize="15dp"
+            android:layout_weight="1"/>
+        <Button
+            android:id="@+id/recordbtn2"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:textSize="15dp"
+            android:layout_weight="1"/>
+        <Button
+            android:id="@+id/recordbtn3"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:textSize="15dp"
+            android:layout_weight="1"/>
+        <Button
+            android:id="@+id/recordbtn4"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:textSize="15dp"
+            android:layout_weight="1"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/black"
+        android:orientation="horizontal"
+        android:layout_weight="10">
+
+        <Button
+            android:id="@+id/recordbtn5"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:textSize="15dp"
+            android:layout_weight="1"/>
+        <Button
+            android:id="@+id/recordbtn6"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:textSize="15dp"
+            android:layout_weight="1"/>
+        <Button
+            android:id="@+id/recordbtn7"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:textSize="15dp"
+            android:layout_weight="1"/>
+        <Button
+            android:id="@+id/recordbtn8"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:textSize="15dp"
+            android:layout_weight="1"/>
+
+    </LinearLayout>
+
+    <fragment
+        android:id="@+id/padFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:name="com.example.launchpad.PianoFragment"
+        android:layout_weight="3.6">
+
+    </fragment>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:background="@color/black"
+        android:layout_weight="0"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/oct_dwn"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:textSize="20dp"
+            android:background="@drawable/button_oct_dwn"
+            android:layout_weight="1"/>
+        <Button
+            android:id="@+id/oct_up"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:textSize="20dp"
+            android:background="@drawable/button_oct_up"
+            android:layout_weight="1"/>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/LaunchPad/app/src/main/res/drawable/button_oct_dwn.xml" value="0.101" />
+        <entry key="..\:/AndroidStudioProjects/LaunchPad/app/src/main/res/drawable/button_oct_up.xml" value="0.101" />
+        <entry key="..\:/AndroidStudioProjects/LaunchPad/app/src/main/res/drawable/button_shape_piano_line_1_3.xml" value="0.137" />
+        <entry key="..\:/AndroidStudioProjects/LaunchPad/app/src/main/res/drawable/button_shape_piano_line_3_4.xml" value="0.101" />
+        <entry key="..\:/AndroidStudioProjects/LaunchPad/app/src/main/res/drawable/left.xml" value="0.101" />
+        <entry key="..\:/AndroidStudioProjects/LaunchPad/app/src/main/res/drawable/left_oct.xml" value="0.101" />
+        <entry key="..\:/AndroidStudioProjects/LaunchPad/app/src/main/res/drawable/right.xml" value="0.101" />
+        <entry key="..\:/AndroidStudioProjects/LaunchPad/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/LaunchPad/app/src/main/res/layout/fragment_bass.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/LaunchPad/app/src/main/res/layout/fragment_piano.xml" value="0.1752786220871327" />
+        <entry key="..\:/CHOHYUNSIK/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_bass_line_2_4.xml" value="0.2055" />
+        <entry key="..\:/CHOHYUNSIK/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_bass_line_3_2.xml" value="0.2055" />
+        <entry key="..\:/CHOHYUNSIK/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_bass_line_3_3.xml" value="0.2055" />
+        <entry key="..\:/CHOHYUNSIK/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_drum_line_1_1.xml" value="0.2055" />
+        <entry key="..\:/CHOHYUNSIK/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_drum_line_1_2.xml" value="0.2055" />
+        <entry key="..\:/CHOHYUNSIK/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_drum_line_1_3.xml" value="0.2055" />
+        <entry key="..\:/CHOHYUNSIK/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_drum_line_1_4.xml" value="0.2055" />
+        <entry key="..\:/CHOHYUNSIK/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_drum_line_2_1.xml" value="0.2055" />
+        <entry key="..\:/CHOHYUNSIK/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_drum_line_2_2.xml" value="0.2055" />
+        <entry key="..\:/CHOHYUNSIK/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_drum_line_2_3.xml" value="0.2055" />
+        <entry key="..\:/CHOHYUNSIK/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_drum_line_2_4.xml" value="0.2055" />
+        <entry key="..\:/CHOHYUNSIK/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_drum_line_3_1.xml" value="0.2055" />
+        <entry key="..\:/CHOHYUNSIK/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_piano_line_1_1.xml" value="0.2055" />
+        <entry key="..\:/CHOHYUNSIK/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_piano_line_2_4.xml" value="0.2055" />
+        <entry key="..\:/CHOHYUNSIK/LaunchPad/LaunchPad/app/src/main/res/layout/activity_main.xml" value="0.3619791666666667" />
+        <entry key="..\:/CHOHYUNSIK/LaunchPad/LaunchPad/app/src/main/res/layout/fragment_bass.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3425" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/drawable/button_background.xml" value="0.3445" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_bass_line_1_1.xml" value="0.3015" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_bass_line_1_2.xml" value="0.3015" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_bass_line_1_3.xml" value="0.3015" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_bass_line_1_4.xml" value="0.3015" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_bass_line_2_1.xml" value="0.3015" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_bass_line_2_2.xml" value="0.3015" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_bass_line_2_3.xml" value="0.3015" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_bass_line_2_4.xml" value="0.3015" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_bass_line_3_1.xml" value="0.3015" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_bass_line_3_2.xml" value="0.3015" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_bass_line_3_3.xml" value="0.3015" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_bass_line_3_4.xml" value="0.3015" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_drum_line_1_1.xml" value="0.3445" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_drum_line_1_2.xml" value="0.3015" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_drum_line_1_3.xml" value="0.3015" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_drum_line_1_4.xml" value="0.3015" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_drum_line_2_1.xml" value="0.3015" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_drum_line_2_2.xml" value="0.3015" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_drum_line_2_3.xml" value="0.3015" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_drum_line_2_4.xml" value="0.3015" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_drum_line_3_1.xml" value="0.3015" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_drum_line_3_2.xml" value="0.3015" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_drum_line_3_3.xml" value="0.3015" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_drum_line_3_4.xml" value="0.3015" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_guitar_line_1_1.xml" value="0.3015" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_guitar_line_1_2.xml" value="0.3015" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_guitar_line_1_3.xml" value="0.3015" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_guitar_line_1_4.xml" value="0.3015" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_guitar_line_2_1.xml" value="0.3015" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_guitar_line_2_2.xml" value="0.3015" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_guitar_line_2_3.xml" value="0.3015" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_guitar_line_2_4.xml" value="0.3015" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_guitar_line_3_1.xml" value="0.3015" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_guitar_line_3_2.xml" value="0.3015" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_guitar_line_3_3.xml" value="0.3015" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_guitar_line_3_4.xml" value="0.3015" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_piano_c_0.xml" value="0.3385" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_piano_d_0.xml" value="0.3425" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_piano_line_1_1.xml" value="0.3445" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_piano_line_1_2.xml" value="0.3445" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_piano_line_1_3.xml" value="0.3445" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_piano_line_1_4.xml" value="0.3445" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_piano_line_2.xml" value="0.3445" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_piano_line_2_1.xml" value="0.3445" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_piano_line_2_2.xml" value="0.3445" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_piano_line_2_3.xml" value="0.3445" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_piano_line_2_4.xml" value="0.3445" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_piano_line_3.xml" value="0.3445" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_piano_line_3_1.xml" value="0.3445" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_piano_line_3_2.xml" value="0.3445" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_piano_line_3_3.xml" value="0.3445" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/drawable/button_shape_piano_line_3_4.xml" value="0.3445" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3425" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/layout/activity_start.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/layout/fragment_bass.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/layout/fragment_drum.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/layout/fragment_guitar.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/User/Desktop/LaunchPad/LaunchPad/app/src/main/res/layout/fragment_piano.xml" value="0.36614583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

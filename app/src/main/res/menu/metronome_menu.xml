@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/FourToThree"
+        android:title="Meter: 3/4"/>
+    <item
+        android:id="@+id/FourToFour"
+        android:title="Meter: 4/4"/>
+    <item
+        android:id="@+id/EightToSix"
+        android:title="Meter: 6/8"/>
+    <item
+        android:id="@+id/Edit_Tempo"
+        android:title="Edit Tempo">
+        <menu>
+            <item
+                android:id="@+id/largo"
+                android:title="largo(45bpm)"/>
+            <item
+                android:id="@+id/larghetto"
+                android:title="larghetto(60bpm)"/>
+            <item
+                android:id="@+id/adagio"
+                android:title="adagio(76bpm)"/>
+            <item
+                android:id="@+id/andante"
+                android:title="andante(96bpm)"/>
+            <item
+                android:id="@+id/moderato"
+                android:title="moderato(122bpm)"/>
+            <item
+                android:id="@+id/allegro"
+                android:title="allegro(144bpm)"/>
+            <item
+                android:id="@+id/vivace"
+                android:title="vivace(168bpm)"/>
+            <item
+                android:id="@+id/presto"
+                android:title="presto(200bpm)"/>
+        </menu>
+    </item>
+</menu>
