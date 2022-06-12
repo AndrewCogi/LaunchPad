@@ -1,5 +1,5 @@
 # Android LaunchPad application
-A android launch pad application for Gachon University 2022 1st semester Mobile Programming, Team G
+An android launch pad application for Gachon University 2022 1st semester Mobile Programming, Team G
 
 ### Brief Description
 
