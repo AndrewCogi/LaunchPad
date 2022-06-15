@@ -40,9 +40,21 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        // set view 'activity_start'
-        setContentView(R.layout.activity_start);
 
+        // set content view -> activity_main
+        setContentView(R.layout.activity_main);
+        // set oct_up & oct_dwn buttons
+        setOctButtonListener();
+        // set instrument fragments
+        setInstrumentFragments();
+        // set metronome
+        setMetronome();
+        // get permission
+        getPermission();
+        // set recorder & player buttons
+        setRecordersAndPlayers();
+        // set center button
+        setCenter();
         // hide action bar
         ActionBar actionbar = getSupportActionBar();
         actionbar.hide();
